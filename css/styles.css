@@ -37,16 +37,20 @@ h2 {
   width: 370px;
   background: #e0ebfe;
 }
+
 .my-photo {
   margin-top: 40px;
 }
+
 .contacts-conteiner,
 .tech-skills-container {
   margin: 48px 0 0 40px;
 }
-.Soft-skills-container{
+
+.Soft-skills-container {
   margin: 48px 0 0 40px;
 }
+
 .sidebar-title {
   font-style: normal;
   font-weight: 700;
@@ -55,30 +59,44 @@ h2 {
   color: #161d2a;
   margin-bottom: 8px;
 }
+
 /* Contacts */
 
-.contacts-type{
+.contacts-type {
   font-style: normal;
   font-weight: 700;
   font-size: 22px;
   line-height: 27px;
-  color: #161D2A;
+  color: #161d2a;
+  margin-right: 8px;
 }
 
-.contacts-item{
+.contacts-item {
   margin: 0;
 }
-.contacts-number{
+
+.contacts-number {
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
-  color: #161D2A
+  color: #161d2a;
 }
-.contacts-email{
+
+.contacts-email {
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
-  color: #2979FF
+  color: #2979ff;
+}
+/* Skills */
+.skills-list{
+  margin: 0;
+  padding: 0 0 0 16px;
+
+}
+.skills-list-item{
+  color: #6D9BF5;
+  
 }
