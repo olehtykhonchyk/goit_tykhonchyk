@@ -98,5 +98,18 @@ h2 {
 }
 .skills-list-item{
   color: #6D9BF5;
-  
+}
+.skills-list-text{
+  color: black;
+}
+.Soft-skills{
+  margin: 0;
+  padding: 0 0 0 16px;
+}
+
+.Soft-skills-item{
+  color: #6D9BF5;
+}
+.Soft-skills-text{
+  color: black;
 }
